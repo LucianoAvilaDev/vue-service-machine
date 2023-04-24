@@ -4,7 +4,7 @@
 - Vue inserido no projeto pelo CDN
 - Os dados utilizados nesse projeto são fictícios e apenas para fins de estudo
 
-## Instruções
+## Descrição
 
 - São mostrados os produtos, onde é possível seleciona-los e alterar as quantidades
 - Ao selecionar o produto, ele é considerado ativo e lançado na nota a direita junto com a sua quantidade.
