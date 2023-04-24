@@ -2,7 +2,7 @@ var products = [
     {
         "photo": "img/big-mac.png",
         "name": "Big Mac",
-        "price": 5.99,
+        "price": 5.01,
         "active": false,
         "quantity": 1
     },
